@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.neighborgood",
+    "sha256_cert_fingerprints":
+    ["a5:be:6d:23:c8:7a:44:13:5a:9c:1a:58:39:31:ce:67:b9:27:eb:3a:e1:da:8b:a5:13:86:47:10:3b:01:a7:83"]
+  }
+}]

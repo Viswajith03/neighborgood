@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>843655214318-a8iragcnl21susl4kqncoglsr39j0pb5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.843655214318-a8iragcnl21susl4kqncoglsr39j0pb5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>843655214318-ebnvu298ambrbqnn1f39sb3hhmc9gi33.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCu95sucKvPQKzNsORDhR05b_9NtpCycJs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>843655214318</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.neighborgood</string>
+	<key>PROJECT_ID</key>
+	<string>neighborgood-e47ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>neighborgood-e47ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:843655214318:ios:6bbe2e49a3f15f0f386fff</string>
+</dict>
+</plist>
